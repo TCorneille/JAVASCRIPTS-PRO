@@ -1,0 +1,8 @@
+.error
+{
+    color:orange;
+    border: black 10px solid;
+    display: inline-block;
+    padding:10px;
+    border-radius: 30px;
+}
